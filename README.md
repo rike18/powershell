@@ -1,2 +1,2 @@
-# powershell
+# PowerShell
 All my scripts
